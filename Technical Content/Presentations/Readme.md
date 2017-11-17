@@ -1,2 +1,2 @@
 # Presentations
-Check back soon for presentation decks and demos from Microsoft Connect() 2017. In the meantime, you can watch all the sessions at [connectevent.microsoft.com](https://connectevent.microsoft.com/).
+Check back soon for more presentation decks and demos from Microsoft Connect() 2017. In the meantime, you can watch all the sessions at [connectevent.microsoft.com](https://connectevent.microsoft.com/).
