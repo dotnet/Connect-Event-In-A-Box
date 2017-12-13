@@ -1,6 +1,6 @@
 # Technical Content
 
-The following technical content from [Connect(); 2017]() is available for you to use at your own events and training. 
+The following technical content from [Microsoft Connect(); 2017](https://connectevent.microsoft.com/) is available for you to use at your own events and training. 
 
 ## Source Code & Demos 
 
@@ -10,13 +10,13 @@ All of the source code for the SmartHotel360 demos is available and linked from 
 
 ## Presentations
 
-[/Presentations](/Presentations)
+[/Presentations](/Technical%20Content/Presentations)
 
 These are the decks used for the Keynotes and General sessions with links to the videos. 
 
 ## Workshops
 
-[/Workshops](/Workshops)
+[/Workshops](/Technical%20Content/Workshops)
 
 This contains links to full day workshops and training. 
 
